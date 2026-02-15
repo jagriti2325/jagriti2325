@@ -1,5 +1,16 @@
-# 💫 About Me:
-AI-powered Intelligent Laboratory Recognition System (IBCRS), Machine Learning projects, and applied data science solutions.<br>Computer Vision, AI in Biotechnology, Deep Learning applications, and innovative research-based tech projects.<br>Model optimization, real-time deployment, advanced MLOps practices, and research publication strategies.<br>Advanced Deep Learning, Model Deployment, System Design, and Applied AI for scientific research.<br>Machine Learning, Data Science, Computer Vision (YOLO), Research Projects, Biotechnology applications of AI, and technical presentations.<br>I love turning research ideas into working AI prototypes and making complex concepts simple to understand.<br><br><br>
+## 🚀 About Me  
+
+🔭 I’m currently building an **AI-powered Intelligent Laboratory Recognition System (IBCRS)** along with advanced **Machine Learning** and **Data Science solutions** focused on real-world impact.
+
+👯 I’m looking to collaborate on **Computer Vision**, **AI in Biotechnology**, **Deep Learning applications**, and research-driven technology projects.
+
+🤝 I’m seeking guidance in **model optimization**, **real-time system deployment**, **advanced MLOps**, and publishing research in applied AI domains.
+
+🌱 I’m currently deepening my expertise in **Advanced Deep Learning**, **Scalable Model Deployment**, **System Design**, and **AI applications in scientific research**.
+
+💬 Ask me about **Machine Learning**, **Data Science**, **YOLO-based Computer Vision**, **AI research projects**, and biotech-driven AI innovations.
+
+⚡ **Fun fact:** I specialize in transforming complex research ideas into practical AI systems that actually work in real-time environments.
 
 
 ## 🌐 Socials:
